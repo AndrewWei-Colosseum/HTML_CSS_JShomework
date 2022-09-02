@@ -1,0 +1,42 @@
+* {
+  /*background-image: url("https://p.kindpng.com/picc/s/205-2054683_brush-stroke-rectangle-png-transparent-png.png");*/
+  background-color: antiquewhite;
+}
+
+.container1 {
+  display: flex;
+  gap: 0px;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+.container2 {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+.container3 {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.item1 {
+  margin-left: -2px;
+}
+
+.item2 {
+  width: 720px ;
+  height: 410px;
+  margin-left: 20px;
+}
+
+.item3 {
+  height: 420px;
+}
+
